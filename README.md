@@ -14,7 +14,7 @@ A small console banking program written in C++. It simulates an ATM-style system
 
 ## PIN codes
 
-The PIN codes of all users are written as comments at the very start of the source file (`bank.cpp`), so you can log in when testing the program.
+The PIN codes of all users are written as comments at the very start of the source file (`ATM.cpp`), so you can log in when testing the program.
 
 ## Notes
 
